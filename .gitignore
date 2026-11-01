@@ -1,0 +1,25 @@
+# Secrets / local config
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Editor
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Local database artifacts
+*.dump
+*.sql.gz
+data/raw/*.html
+
+# Node (should not be needed by this project, kept defensively)
+node_modules/
