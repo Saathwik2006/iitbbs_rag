@@ -1,0 +1,8 @@
+# One public URL per line. Lines starting with '#' are ignored.
+# Replace these with real IIT Bhubaneswar public pages before running
+# scripts/extract_pages.py -- these are placeholder examples only and
+# have NOT been verified to exist or to return useful content.
+#
+# https://www.iitbbs.ac.in/academics.php
+# https://www.iitbbs.ac.in/notices.php
+# https://www.iitbbs.ac.in/faculty.php?dept=CS

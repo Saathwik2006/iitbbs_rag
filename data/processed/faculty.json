@@ -1,0 +1,4 @@
+{
+  "_notice": "SAMPLE DATA -- not real IIT Bhubaneswar faculty records. This file is a placeholder so the project structure is complete out of the box. It is not read by any script in this project (main.py answers only from kb_documents/kb_chunks built by scripts/embed_and_store.py). Replace or remove it once you have ingested real public faculty pages via scripts/extract_pages.py.",
+  "faculty": []
+}
